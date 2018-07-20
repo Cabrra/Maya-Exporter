@@ -1,0 +1,30 @@
+This is the new ED2 viewer that you can also test your binary and .scn files with.
+
+To run test this application:
+
+1. Run
+2. Load File
+3. Bask in your glory
+
+Any .mesh or .xml file you load with it, please make sure the appropriate texture is in the 
+textures folder.
+
+If testing a scene, make sure that all meshes (.xml format) are located in the meshes folder.
+Otherwise there will be problems.
+
+This is a pre Alpha build and I'm sure there are probably bugs. Just let me know and I'll 
+do what I can for future builds.
+
+Controls:
+
+Camera Movement
+
+W - forward
+A - left
+S - back
+D - right
+
+Up Arrow - Up
+Down Arrow - Down
+Right Arrow - Rotate Right
+Left Arrow - Rotate Left

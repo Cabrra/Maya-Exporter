@@ -1,0 +1,14 @@
+Object			Vert Count	Face Count
+
+Test Mesh
+MajorN			693		1025
+
+Test Scene
+Bench			400		260
+Building_A_base		74		40
+Building_A_level_1	48		24
+Building_A_level_2	48		24
+Ground			196		98
+pasted__pSphere		401		760
+pSphere			401		760
+

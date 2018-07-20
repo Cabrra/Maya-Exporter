@@ -1,0 +1,1 @@
+copy /Y "x64\Debug\3DCC.mll" "F:\MayaPlugs"
