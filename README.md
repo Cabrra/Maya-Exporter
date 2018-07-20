@@ -26,16 +26,12 @@ The way it works is as follows:
 ## Deployment
 
 1- Loading the plugin
-==================
-
   - Open Maya
   - Click Window > Settings/Preferences
   - Click Plugin Manager…
   - Click Browse and load the plugin.
 
 2- Using the plugin
-================  
-
   - Click File
   - Click the box next to Export All
   - In the drop down menu Choose your Mesh and Scene Exporter.
